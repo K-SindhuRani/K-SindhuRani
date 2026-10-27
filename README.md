@@ -2,7 +2,7 @@
 
 ### Java Full Stack Developer | CSE (AI & ML) | DSA | Agentic AI Enthusiast
 
-I'm a B.Tech Computer Science student specializing in Artificial Intelligence & Machine Learning, with a strong interest in Java-based full-stack development and Agentic AI.
+I'm a B.Tech Computer Science graduate specializing in Artificial Intelligence & Machine Learning, with a strong interest in Java-based full-stack development and Agentic AI.
 
 I enjoy building practical applications, solving Data Structures & Algorithms problems, and continuously learning technologies that help me develop efficient and scalable software solutions.
 
@@ -34,7 +34,7 @@ HTML • CSS • JavaScript • React
 MySQL
 
 ### Tools
-Git • GitHub • VS Code • IntelliJ IDEA
+Git • GitHub • VS Code • IntelliJ IDEA • Antigravity 
 
 ### Core Concepts
 Data Structures & Algorithms • OOP • DBMS • SQL • REST APIs
