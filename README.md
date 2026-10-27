@@ -58,7 +58,7 @@ A full-stack banking application designed with secure authentication, account ma
 - Mini statements
 - Admin functionality
 
-🔗 [View Project](https://github.com/K-SindhuRani)
+🔗 [View Project](https://github.com/K-SindhuRani/Secure-Banking-System-)
 
 ---
 
@@ -77,7 +77,7 @@ A full-stack student management application for performing CRUD operations and m
 - REST API integration
 - MySQL database integration
 
-🔗 [View Project](https://github.com/K-SindhuRani)
+🔗 [View Project](https://github.com/K-SindhuRani/Student-Management-System-CRUD)
 
 ---
 
@@ -94,7 +94,7 @@ A customer relationship management application focused on managing customer info
 - Follow-up scheduling
 - CRUD operations
 
-🔗 [View Project](https://github.com/K-SindhuRani)
+🔗 [View Project](https://github.com/K-SindhuRani/RecruitSmart-CRM_Application)
 
 ---
 
@@ -106,7 +106,7 @@ I regularly practice Data Structures & Algorithms and problem-solving using Java
 
 Arrays • Strings • HashMap • Two Pointers • Sliding Window • Binary Search • Linked Lists • Stack • Queue • Trees • Dynamic Programming
 
-📌 [View DSA Practice](https://github.com/K-SindhuRani)
+📌 [View DSA Practice](https://github.com/K-SindhuRani/LeetCode)
 
 ---
 
@@ -124,7 +124,7 @@ Arrays • Strings • HashMap • Two Pointers • Sliding Window • Binary Se
 
 💼 LinkedIn: [Sindhu Rani](https://www.linkedin.com/in/k-sindhu-rani/)
 
-🌐 Portfolio: [My Portfolio](YOUR_PORTFOLIO_URL)
+🌐 Portfolio: [My Portfolio](https://my-portfolio-website-delta-virid-78.vercel.app/)
 
 📧 Email: sindhurani334@gmail.com
 
