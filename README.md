@@ -1,135 +1,141 @@
-# Hi 👋, I'm Sindhu Rani
+# 👩‍💻 Kotti Sindhu Rani
 
-### Java Full Stack Developer | CSE (AI & ML) | DSA | Agentic AI Enthusiast
+### Java Full Stack Developer | Software Developer | Exploring Agentic AI
 
-I'm a B.Tech Computer Science graduate specializing in Artificial Intelligence & Machine Learning, with a strong interest in Java-based full-stack development and Agentic AI.
-
-I enjoy building practical applications, solving Data Structures & Algorithms problems, and continuously learning technologies that help me develop efficient and scalable software solutions.
-
----
-
-## 🚀 About Me
-
-- 🎓 B.Tech in Computer Science (AI & ML)
-- 💻 Focused on Java Full Stack Development
-- 🧠 Practicing Data Structures & Algorithms
-- 🌱 Currently strengthening Spring Boot, DSA & Agentic AI
-- 🛠️ Interested in building real-world software applications
-- 🎯 Actively exploring Software Engineer & Full Stack opportunities
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Building+Real-World+Applications;Exploring+Agentic+AI+%26+LLMs" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🌟 About Me
 
-### Languages
-Java • Python  • SQL
+- 🎓 Computer Science graduate specializing in Artificial Intelligence & Machine Learning.
+- 💻 Passionate about Java Full Stack Development and Software Engineering.
+- 🚀 Building practical applications using Java, Spring Boot, React and MySQL.
+- 🧠 Strengthening my Data Structures & Algorithms and problem-solving skills.
+- 🤖 Exploring Agentic AI, Large Language Models and AI-powered applications.
+- 🎯 Always eager to learn, build and grow as a developer.
 
-### Backend
-Spring Boot • Spring Data JPA • REST APIs
+---
 
-### Frontend
-HTML • CSS • JavaScript • React
+## 🌐 Socials
 
-### Database
-MySQL
+<p align="left">
+  <a href="https://www.linkedin.com/in/k-sindhu-rani/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/K-SindhuRani">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://my-portfolio-website-delta-virid-78.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-### Tools
-Git • GitHub • VS Code • IntelliJ IDEA • Antigravity 
+---
 
-### Core Concepts
-Data Structures & Algorithms • OOP • DBMS • SQL • REST APIs
+## 💻 Tech Stack
+
+**Programming Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+**Frontend Development**
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+**Backend Development**
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+</p>
+
+**Database & Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏦 Secure Banking System
+### 1. RecruitSmart CRM
+A full-stack recruitment management application with recruiter and user authentication, job management, application tracking and AI-powered job matching.
 
-A full-stack banking application designed with secure authentication, account management and transaction functionality.
+**Technologies:** Java, Spring Boot, React, MySQL, REST APIs.
 
-**Tech:** Java • Spring Boot • Spring Security • JWT • React • MySQL
+[![GitHub](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/K-SindhuRani/RecruitSmart-CRM_Application)
 
-**Key Features**
-- User authentication and authorization
-- JWT-based security
-- Account management
-- Fund transfers
-- Transaction history
-- Mini statements
-- Admin functionality
+### 2. Secure Banking System
+A secure banking application featuring authentication, account management, fund transfers and transaction history.
 
-🔗 [View Project](https://github.com/K-SindhuRani/Secure-Banking-System-)
+**Technologies:** Java, Spring Boot, React, MySQL, JWT.
 
----
+[![GitHub](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/K-SindhuRani/Secure-Banking-System-)
 
-### 🎓 Student Management System
+### 3. Student Management System
+A CRUD-based application for managing student records and performing database operations.
 
-A full-stack student management application for performing CRUD operations and managing student information.
+**Technologies:** Java, JDBC, MySQL.
 
-**Tech:** Java • Spring Boot • Spring Data JPA • MySQL • HTML • CSS • JavaScript
-
-**Key Features**
-- Add students
-- Update student information
-- Delete students
-- Search students
-- View student records
-- REST API integration
-- MySQL database integration
-
-🔗 [View Project](https://github.com/K-SindhuRani/Student-Management-System-CRUD)
+[![GitHub](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/K-SindhuRani/Student-Management-System-CRUD)
 
 ---
 
-### 📚 RecruitSmart CRM
+## 📚 Currently Learning
 
-A customer relationship management application focused on managing customer information and supporting lead and follow-up management.
-
-**Tech:** Java • Spring Boot • MongoDB • REST APIs
-
-**Key Features**
-- Customer management
-- Lead management
-- Lead scoring
-- Follow-up scheduling
-- CRUD operations
-
-🔗 [View Project](https://github.com/K-SindhuRani/RecruitSmart-CRM_Application)
+- Advanced Java & Spring Boot
+- Data Structures and Algorithms
+- Agentic AI and LLM Applications
+- LangChain and AI Agent Development
 
 ---
 
-## 🧠 DSA Practice
+## 📊 GitHub Stats
 
-I regularly practice Data Structures & Algorithms and problem-solving using Java.
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=K-SindhuRani&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-SindhuRani&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-**Topics I practice:**
-
-Arrays • Strings • HashMap • Two Pointers • Sliding Window • Binary Search • Linked Lists • Stack • Queue • Trees • Dynamic Programming
-
-📌 [View DSA Practice](https://github.com/K-SindhuRani/LeetCode)
-
----
-
-## 📈 What I'm Currently Learning
-
-- Advanced Data Structures & Algorithms
-- Spring Boot & REST API development
-- Full Stack Java Development
-- AI/ML fundamentals
-- Agentic AI and modern AI development
+<p align="center">
+  <img width="65%" src="https://streak-stats.demolab.com?user=K-SindhuRani&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🏆 GitHub Trophies
 
-💼 LinkedIn: [Sindhu Rani](https://www.linkedin.com/in/k-sindhu-rani/)
-
-🌐 Portfolio: [My Portfolio](https://my-portfolio-website-delta-virid-78.vercel.app/)
-
-📧 Email: sindhurani334@gmail.com
-
-💻 GitHub: [K-SindhuRani](https://github.com/K-SindhuRani)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=K-SindhuRani&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+<p align="center">
+  <b>✨ Learning continuously. Building consistently. Growing every day. ✨</b>
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my profile! Feel free to explore my repositories.</i>
+</p>
