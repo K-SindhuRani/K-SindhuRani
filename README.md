@@ -126,8 +126,6 @@ A CRUD-based application to manage student records and perform database operatio
 ## 🏆 Achievements
 
 - 🥇 Academic Excellence Award – Graduated with Gold recognition.
-- 🏅 Second Prize – Dance competition organized by the Mathematics Club.
-- 🎤 Participated in a District-Level Speech Competition.
 
 ---
 
