@@ -151,9 +151,6 @@ A CRUD-based application to manage student records and perform database operatio
 - Practiced Java fundamentals, OOP concepts and exception handling.
 - Developed a Java Quiz mini-project and practiced debugging and Git.
 
-**Exceler Training – Java Programming Intern**
-- Completed a six-week Java programming training internship.
-
 ---
 
 ## 📚 Currently Learning
@@ -168,28 +165,12 @@ A CRUD-based application to manage student records and perform database operatio
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=K-SindhuRani&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-SindhuRani&layout=compact&theme=transparent&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=K-SindhuRani&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-SindhuRani&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=K-SindhuRani&theme=transparent&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=K-SindhuRani&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=K-SindhuRani&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img width="65%" src="https://streak-stats.demolab.com?user=K-SindhuRani&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
